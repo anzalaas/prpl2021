@@ -116,7 +116,7 @@
 <a href="#"><legend id="forgot-pass">Forgot password?</legend></a>
 <input id="submit-btn" type="submit" name="submit" value="LOGIN" /><a href="#" id="signup">Don't have account yet?</a>
 <input type="button" onclick=" location = ' signup.php ' " name="btnregis" value="SIGNUP" class="requireds"
-    </form>
+</form>
   </div>
 </div>
 </body>
