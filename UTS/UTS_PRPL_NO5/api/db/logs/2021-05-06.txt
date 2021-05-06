@@ -1,0 +1,10 @@
+Time : 22:21:04
+SQLSTATE[42S22]: Column not found: 1054 Unknown column 'cat_name' in 'where clause'
+Raw SQL : select * from mahasiswa  where cat_name LIKE '%Uda%'   LIMIT 0,10
+
+Time : 22:16:15
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'post_8.categories' doesn't exist
+Raw SQL : select * from categories
+
+Time : 22:16:02
+SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
