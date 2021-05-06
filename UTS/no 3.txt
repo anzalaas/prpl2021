@@ -1,0 +1,7 @@
+$ git clone gh repo clone ardiansyah-sweng/prpl2021
+$ git remote set-url origin https://github.com/aqslindr/prpl2021     
+$ git push -u origin Aqsalya Anzala_E_1900018256
+$ git add *
+$ git commit -m "prpl"
+$ git pull
+$ git merge <cabang>
